@@ -1,0 +1,13 @@
+skill
+-Prombelem Solver
+-Public Speaking
+-Bahasa Inggris
+-Matematika
+-Lateral Thinking
+-Analisis
+
+hasil
+-BMW
+-Chevrolet
+-Dividen
+-
